@@ -1,1 +1,1 @@
-# SingleTonClass
+# SingletonClass
